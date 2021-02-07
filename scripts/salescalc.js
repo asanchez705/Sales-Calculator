@@ -12,3 +12,4 @@ function calculateSales() {
     spTotal.innerHTML=Total.toFixed(2)
 }
 
+//I changed the h1 code from blue to red.
